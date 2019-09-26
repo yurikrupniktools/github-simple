@@ -19,5 +19,8 @@
   "homepage": "https://github.com/yurikrupniktools/github-simple#readme",
   "devDependencies": {
     "webpack": "^4.41.0"
+  },
+  "dependencies": {
+    "react": "^16.9.0"
   }
 }
