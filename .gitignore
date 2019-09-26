@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+.idea
+.storybook/dist
+packages/**/dist
+dist
+packages/.DS_Store
+.DS_Store
